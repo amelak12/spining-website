@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content:center ;
+    align-items: ;
+    height: 100vh;
+    background-color: #b3e069;
+    margin-bottom: 40px;
+    
+}
+p{
+    text-align: center;
+}
